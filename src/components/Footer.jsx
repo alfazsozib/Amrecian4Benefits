@@ -10,7 +10,7 @@ function Footer() {
   return (
     <div className='footer max-w-[1644px] mx-auto relative'>
 
-        <div className='bg-blue-800 w-[100%] h-80'>
+        <div className='bg-purple-900 w-[100%] h-80'>
             <div>
                 <h1 className='text-white absolute bottom-28  left-4'><a href="/"> Site Map</a></h1>
             </div>    
