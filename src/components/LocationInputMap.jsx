@@ -15,7 +15,7 @@ import mapImg from "../images/map.PNG"
 function LocationInputMap() {
 
   return(
-    <div>
+    <div className='max-w-[1644px] mx-auto'>
     <img src={mapImg} alt="" />
   </div>
 
