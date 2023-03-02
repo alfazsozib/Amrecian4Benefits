@@ -5,15 +5,20 @@ import Hero from './components/Hero';
 import Mapsection from './components/Mapsection';
 import LocationInputMap from './components/LocationInputMap';
 import Footer from './components/Footer';
+import OurMission from './pages/OurMission';
+import OurFirm from './pages/OurFirm';
 
 function App() {
   return (
     <div className="App">
       <Navbar />
-      <Hero />
+      {/* <Hero />
       <Mapsection />
-      <LocationInputMap />
+      <LocationInputMap /> */}
+      <OurFirm />
       <Footer />
+
+      
     </div>
   );
 }
